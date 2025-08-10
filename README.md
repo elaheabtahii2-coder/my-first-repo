@@ -1,5 +1,5 @@
 # my-first-repo
-my first github repository
+my first github repositor
 # todo_list.py
 
 tasks = []
