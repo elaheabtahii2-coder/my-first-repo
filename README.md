@@ -34,7 +34,7 @@ def remove_task():
         except (ValueError, IndexError):
             print("Invalid task number.")
 
-while True:
+while True
     show_menu()
     choice = input("Choose an option: ")
     if choice == "1":
