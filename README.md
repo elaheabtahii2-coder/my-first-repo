@@ -14,7 +14,7 @@ def show_menu():
 def show_tasks():
     if not tasks:
         print("No tasks yet.")
-    else
+    else:
         print("\nYour tasks:")
         for i, task in enumerate(tasks, start=1):
             print(f"{i}. {task}")
