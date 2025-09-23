@@ -1,4 +1,4 @@
-# my-first-rep
+# my-first-repo
 my first github repository
 # todo_list.py
 
